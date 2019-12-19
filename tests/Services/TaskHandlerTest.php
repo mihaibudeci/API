@@ -111,3 +111,4 @@ class TaskHandlerTest extends KernelTestCase
         $this->assertEquals('This value should not be null.', $result->get(0)->getMessage());
     }
 }
+#da
